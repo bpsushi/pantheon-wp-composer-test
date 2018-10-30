@@ -1,0 +1,6 @@
+name: pantheon-wp-composer-test
+recipe: pantheon
+config:
+  framework: wordpress
+  site: pantheon-wp-composer-test
+  id: 8582a9dd-49f6-493d-b6b8-e252acbd9b40
